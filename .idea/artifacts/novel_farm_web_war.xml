@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="novel-farm-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="novel-farm-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="novel-farm-web:war exploded" />
+    </root>
+  </artifact>
+</component>
